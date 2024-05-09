@@ -1,0 +1,5 @@
+Dataset link :
+	https://www.kaggle.com/datasets/paultimothymooney/chest-xray-pneumonia
+Dataset description : 
+ The dataset contain two classes 1. PNEUMONIA ( 4273 ) and 2.NORMAL( 1583) ,
+ total of 5856 chest xray images .
